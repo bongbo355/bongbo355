@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzl3eW9yd2F3YzR0NDJ2c2M4Zmx3aWdqM3Btd2Y3Y2M4c2pkc2R0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ut8rB4Q1D1B4e6sB4o/giphy.gif" width="100%" alt="Kamen Rider Decade GIF"/>
+
   <h1>💫 Xin chào, I'm Trần Trọng Tấn! 🚀</h1>
   <p>A passionate tech enthusiast crafting creative and exciting projects!</p>
 </div>
+
 
 ---
 
