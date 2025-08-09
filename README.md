@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://media.giphy.com/media/0i3EDBmPzqeuB1uMZz/giphy.gif" style="width: 100%; max-height: 250px; object-fit: cover; border-radius: 8px;" alt="Kamen Rider Decade GIF"/>
   <h1 style="animation: fadeIn 2s; color: #ff007a;">💫 Xin chào, I'm Trần Trọng Tấn! 🚀</h1>
   <p style="font-size: 1.1em;">Đam mê công nghệ, biến ý tưởng thành dự án sáng tạo!</p>
@@ -62,3 +62,4 @@
   <img src="https://media.giphy.com/media/l4KibWpBGW6I35n7G/giphy.gif" style="width: 80px; border-radius: 8px;" alt="Kamen Rider Decade Footer GIF"/>
   <p style="color: #ff007a;">Biến ý tưởng thành mã nguồn! 🌟</p>
 </div>
+](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNrYjZoZHFhODZ2MXozYmRhYnE4c2RodG1tNGIwbGdtdzlsd3E4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0i3EDBmPzqeuB1uMZz/giphy.gif)
