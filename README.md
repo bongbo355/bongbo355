@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M4NnhscDJrdzR2M2U2ZGd2dTJ0a3k2a2F3c3h5aGdzd3p3eTV3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KibWpBGWchSqCRy/giphy.gif" alt="Dev Working GIF" style="max-width: 100%; height: auto;"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNpYzR5ZDFhY3d4cGZjY3l5bjVjY2F0ZjJpMmk3YmJ2ZW5ldnNhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0i3EDBmPzqeuB1uMZz/giphy.gif"
+       alt="Your GIF"
+       style="max-width: 100%; height: auto;" />
   <h1>💫 Xin chào, I'm Trần Trọng Tấn! 🚀</h1>
   <p>A passionate tech enthusiast crafting creative and exciting projects!</p>
 </div>
