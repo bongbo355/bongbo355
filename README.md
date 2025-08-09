@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNpYzR5ZDFhY3d4cGZjY3l5bjVjY2F0ZjJpMmk3YmJ2ZW5ldnNhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0i3EDBmPzqeuB1uMZz/giphy.gif"
-       alt="Kamen Rider Decade GIF"
-       style="max-width: 100%; height: auto;" />
+  <img src="./assets/kamen.gif" alt="Kamen Rider Decade GIF" style="max-width: 100%; height: auto;" />
   <h1>💫 Xin chào, I'm Trần Trọng Tấn! 🚀</h1>
   <p>Đam mê công nghệ, biến ý tưởng thành dự án sáng tạo!</p>
 </div>
