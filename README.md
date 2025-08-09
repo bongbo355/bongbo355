@@ -1,8 +1,10 @@
 <h1 align="center">✨ TRẦN TRỌNG TẤN ✨</h1>
-<p align="center">
+<div align="center">
   <h3>"Bane of Bugs"</h3>
-  <em>"Thank you for taking the time to visit my GitHub page."</em>
-</p>
+  <p>
+    <em>"Thank you for taking the time to visit my GitHub page."</em>
+  </p>
+</div>
 
 ---
 
@@ -36,14 +38,26 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanas2k4&theme=radical&hide_border=true&include_all_commits=true&count_private=false" width="45%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanas2k4&theme=radical&hide_border=true" width="45%" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanas2k4&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="45%" alt="GitHub Trophies"/>
-  <img src="https://github-profile-achievements.vercel.app/api?username=Tanas2k4" width="45%" alt="GitHub Achievements"/>
-</p>
+
+<!-- 2x2 grid để các cards luôn cân đối -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Tanas2k4&theme=radical&hide_border=true&include_all_commits=true&count_private=false" width="380" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanas2k4&theme=radical&hide_border=true" width="380" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Tanas2k4&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="380" alt="GitHub Trophies" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanas2k4&theme=radical&hide_border=true&layout=compact" width="380" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
