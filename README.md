@@ -1,5 +1,5 @@
-✨ Trần Trọng Tấn
-Passionate Developer | Lifelong Learner
+✨ TRẦN TRỌNG TẤN | "Bane of Bugs"
+
 <div align="center">
 <img src="https://i.giphy.com/0i3EDBmPzqeuB1uMZz.webp"
 alt="Kamen Rider Decade WebP"
@@ -43,7 +43,3 @@ Welcome to my GitHub page! I'm a dedicated developer with a strong focus on buil
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanas2k4&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="45%"/>
 </div>
 
-✍️ Random Dev Quote
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
