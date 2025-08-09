@@ -1,25 +1,27 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNpYzR5ZDFhY3d4cGZjY3l5bjVjY2F0ZjJpMmk3YmJ2ZW5ldnNhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0i3EDBmPzqeuB1uMZz/giphy.gif"
-       alt="Your GIF"
+       alt="Kamen Rider Decade GIF"
        style="max-width: 100%; height: auto;" />
   <h1>💫 Xin chào, I'm Trần Trọng Tấn! 🚀</h1>
-  <p>A passionate tech enthusiast crafting creative and exciting projects!</p>
+  <p>Đam mê công nghệ, biến ý tưởng thành dự án sáng tạo!</p>
 </div>
 
 ---
 
-### 🌐 Connect with Me
-
+### 🌐 Kết nối với tôi
 <div align="center">
-  <a href="https://www.facebook.com/tran.tan.677008/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat-square" alt="Facebook"/></a>
-  <a href="https://instagram.com/tanas._.34hz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat-square" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/tran.tan.677008/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat-square" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/tanas._.34hz">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat-square" alt="Instagram"/>
+  </a>
 </div>
 
 ---
 
 ### 💻 Tech Stack
-
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -37,7 +39,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanas2k4&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanas2k4&theme=radical&hide_border=true" alt="GitHub Streak" width="45%"/>
@@ -46,8 +47,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
-
+### ✍️ Lời trích dẫn Dev
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
@@ -56,5 +56,5 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aD2d7hy9ktpH7vW/giphy.gif" width="150" alt="Coding GIF"/>
-  <p>Transforming ideas into code! 🌟</p>
+  <p>Biến ý tưởng thành code! 🌟</p>
 </div>
